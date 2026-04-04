@@ -1,0 +1,24 @@
+[
+    {
+        "index": 0,
+        "timestamp": "2026-04-04T20:59:13.817484",
+        "data": "Genesis Block",
+        "previous_hash": "0",
+        "hash": "b5e89ff00767bdec1206589987bc631f70b2ef84e89457ef23db98f02ee9a6b3"
+    },
+    {
+        "index": 1,
+        "timestamp": "2026-04-04T20:59:37.605225",
+        "data": {
+            "type": "package",
+            "product_id": "100",
+            "name": "ram",
+            "quantity": 2,
+            "location": "casa",
+            "status": "Enregistr\u00e9",
+            "tracked_at": "2026-04-04T20:59:37.604208"
+        },
+        "previous_hash": "b5e89ff00767bdec1206589987bc631f70b2ef84e89457ef23db98f02ee9a6b3",
+        "hash": "a3c2ae4c84991668ea269016cda14c08482cd090342657b49dc9782c0313b885"
+    }
+]
